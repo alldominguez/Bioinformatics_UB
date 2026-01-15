@@ -14,12 +14,13 @@ El objetivo de esta sesión es ofrecer una introducción a los distintos abordaj
 
 Algunos de los contenidos que revisaremos en esta sección incluyen:
 
-Visualización de la distribución y concentración de variables del exposoma.
-Correlación entre exposiciones.
-Análisis de Componentes Principales (PCA) aplicado a variables del exposoma.
+- Visualización de la distribución y concentración de variables del exposoma.
+- Correlación entre exposiciones.
+- Análisis de Componentes Principales (PCA) aplicado a variables del exposoma.
+
 ***2.- Análisis de asociación***: El análisis de asociación persigue la identificación de posibles factores de exposición ambiental asociados con distintos parámetros de salud. En este bloque, se presentarán distintos abordajes analíticos holísticos centrados en el estudio de los efectos de múltiples factores de exposición y sus mezclas sobre la salud. Esto incluye modelos como el ExWAS (Exposome-Wide Association Analysis), u otros para el estudio de interacciones o fenómenos de no linealidad (e.g., Bayesian Kernel Machine Regression). También se presentará una introducción a los métodos de clustering y mezclas de exposición (e.g., Weighted Quantile Sum Regression). Durante su estudio, se introducirán conceptos de gran importancia en el análisis del exposoma, como son la selección de características o la corrección de testeo múltiple.
 
 Algunos de los contenidos que revisaremos en esta sección incluyen:
 
-Exposure Wide Association Analysis (ExWas).
-Métodos para la selección de variables (Stepwise, Elastic net, DSA).
+- Exposure Wide Association Analysis (ExWas).
+- Métodos para la selección de variables (Stepwise, Elastic net, DSA).
