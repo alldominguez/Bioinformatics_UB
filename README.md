@@ -1,4 +1,4 @@
-# Bioinformatics UB Sesión Exposoma
+# Bioinformatics UB - Sesión Exposoma
 Material para la sesión práctica de Exposoma
 
 Alan Domínguez, Investigador Predoctoral del Instituto de Salud Global de Barcelona - ISGlobal
