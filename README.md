@@ -1,5 +1,5 @@
 # Bioinformatics UB - Sesión Exposoma
-Material para la sesión práctica de Exposoma
+## Introducción al concepto del Exposoma y sus metodologías. 
 
 Alan Domínguez, Investigador Predoctoral del Instituto de Salud Global de Barcelona - ISGlobal
 Augusto Anguita-Ruiz, Investigador Postdoctoral del Instituto de Salud Global de Barcelona - ISGlobal
