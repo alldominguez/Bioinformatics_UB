@@ -2,8 +2,8 @@
 ## Introducción al concepto del Exposoma y sus metodologías. 
 <img src="figures/logo_UB.png" alt="UB logo" width="300"/>  
 
-Alan Domínguez, Investigador Predoctoral del Instituto de Salud Global de Barcelona - ISGlobal
-Augusto Anguita-Ruiz, Investigador Postdoctoral del Instituto de Salud Global de Barcelona - ISGlobal
+- Alan Domínguez, Investigador Predoctoral del Instituto de Salud Global de Barcelona - ISGlobal
+- Augusto Anguita-Ruiz, Investigador Postdoctoral del Instituto de Salud Global de Barcelona - ISGlobal
 
 Una de las ventajas principales del enfoque del exposoma, en comparación con otros más tradicionales como "una exposición, una enfermedad", es que proporciona un marco para el estudio de múltiples riesgos ambientales (urbanos, químicos, estilo de vida, sociales, entre otros) y sus efectos combinados en la salud humana.
 
