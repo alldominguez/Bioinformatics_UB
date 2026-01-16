@@ -1,5 +1,6 @@
 # Bioinformatics UB - Sesión Exposoma
 ## Introducción al concepto del Exposoma y sus metodologías. 
+<img src="figures/logo_UB.png" alt="UB logo" width="300"/>  
 
 Alan Domínguez, Investigador Predoctoral del Instituto de Salud Global de Barcelona - ISGlobal
 Augusto Anguita-Ruiz, Investigador Postdoctoral del Instituto de Salud Global de Barcelona - ISGlobal
