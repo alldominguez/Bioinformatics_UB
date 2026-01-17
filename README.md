@@ -1,27 +1,30 @@
 # Bioinformatics UB - Sesión Exposoma
-## Introducción al concepto del Exposoma y sus metodologías. 
+## Introduction to the concept of the Exposome and its methodologies.
 <img src="figures/logo_UB.png" alt="UB logo" width="300"/>  
 
-- Alan Domínguez, Investigador Predoctoral del Instituto de Salud Global de Barcelona - ISGlobal
-- Augusto Anguita-Ruiz, Investigador Postdoctoral del Instituto de Salud Global de Barcelona - ISGlobal
+- Alan Domínguez, Predoctoral Researcher at the Barcelona Institute for Global Health (ISGlobal)
+- Augusto Anguita-Ruiz, Postdoctoral Researcher at the Barcelona Institute for Global Health (ISGlobal)
 
-Una de las ventajas principales del enfoque del exposoma, en comparación con otros más tradicionales como "una exposición, una enfermedad", es que proporciona un marco para el estudio de múltiples riesgos ambientales (urbanos, químicos, estilo de vida, sociales, entre otros) y sus efectos combinados en la salud humana.
+One of the main advantages of the exposome approach, compared to more traditional ones like "one exposure, one disease," is that it provides a framework for studying multiple environmental risks (urban, chemical, lifestyle, social, among others) and their combined effects on human health.
 
-El exposoma se define como "la totalidad de las exposiciones ambientales humanas desde la concepción en adelante". Este concepto reconoce que los individuos estamos expuestos simultáneamente a múltiples factores ambientales diferentes, adoptando un enfoque holístico para el descubrimiento de factores etiológicos de enfermedades. La ventaja principal del enfoque del exposoma, en comparación con otros más tradicionales como "una exposición, una enfermedad", es que proporciona un marco de trabajo para el estudio de múltiples riesgos ambientales (urbanos, químicos, de estilo de vida, sociales, entre otros) y sus efectos combinados.
+The exposome is defined as "the totality of human environmental exposures from conception onward." This concept recognizes that individuals are simultaneously exposed to multiple different environmental factors, adopting a holistic approach to discovering the etiological factors of diseases. The main advantage of the exposome approach, compared to more traditional ones like "one exposure, one disease," is that it provides a framework for studying multiple environmental risks (urban, chemical, lifestyle, social, among others) and their combined effects.
 
-El objetivo de esta sesión es ofrecer una introducción a los distintos abordajes estadísticos necesarios para responder a las principales cuestiones de investigación en exposoma; por lo tanto, en esta sesión:
+The objective of this session is to provide an introduction to the various statistical approaches necessary to answer the main research questions in exposomes; therefore, in this session:
 
-***1.- Análisis descriptivo***: En una primera parte de la sesión, se trabajará sobre el concepto de análisis descriptivo en exposómica, mediante el cual se extraen las primeras conclusiones sobre los datos. Entre otros objetivos, el análisis descriptivo persigue identificar posibles valores anómalos, factores de confusión o variables que requieran transformaciones previas al análisis. A su vez, permite comparar preliminarmente los grupos experimentales objeto de estudio, estudiar los patrones de correlación existentes entre factores de exposición e identificar fenómenos de agrupación en los datos (tanto a nivel de individuos como de características), pasos imprescindibles para elegir el abordaje estadístico posterior más adecuado.
+***1. Descriptive Analysis***: In the first part of the session, we will work on the concept of descriptive analysis in exposomes, through which initial conclusions are drawn from the data. Among other objectives, descriptive analysis aims to identify possible outliers, confounding factors, or variables that require transformations prior to analysis. It also allows for a preliminary comparison of the experimental groups under study, the examination of correlation patterns between exposure factors, and the identification of clustering phenomena in the data (both at the individual and characteristic levels), essential steps for choosing the most appropriate subsequent statistical approach.
 
-Algunos de los contenidos que revisaremos en esta sección incluyen:
+Some of the topics we will cover in this section include:
 
-- Visualización de la distribución y concentración de variables del exposoma.
-- Correlación entre exposiciones.
-- Análisis de Componentes Principales (PCA) aplicado a variables del exposoma.
+- Visualizing the distribution and concentration of exposome variables.
 
-***2.- Análisis de asociación***: El análisis de asociación persigue la identificación de posibles factores de exposición ambiental asociados con distintos parámetros de salud. En este bloque, se presentarán distintos abordajes analíticos holísticos centrados en el estudio de los efectos de múltiples factores de exposición y sus mezclas sobre la salud. Esto incluye modelos como el ExWAS (Exposome-Wide Association Analysis), u otros para el estudio de interacciones o fenómenos de no linealidad (e.g., Bayesian Kernel Machine Regression). También se presentará una introducción a los métodos de clustering y mezclas de exposición (e.g., Weighted Quantile Sum Regression). Durante su estudio, se introducirán conceptos de gran importancia en el análisis del exposoma, como son la selección de características o la corrección de testeo múltiple.
+- Correlation between exposures.
 
-Algunos de los contenidos que revisaremos en esta sección incluyen:
+- Principal Component Analysis (PCA) applied to exposome variables.
 
-- Exposure Wide Association Analysis (ExWas).
-- Métodos para la selección de variables (Stepwise, Elastic net, DSA).
+***2. Association Analysis***: Association analysis aims to identify potential environmental exposure factors associated with various health parameters. This section will present different holistic analytical approaches focused on studying the effects of multiple exposure factors and their mixtures on health. This includes models such as ExWAS (Exposome-Wide Association Analysis), and others for studying interactions or nonlinear phenomena (e.g., Bayesian Kernel Machine Regression). An introduction to clustering methods and exposure mixtures (e.g., Weighted Quantile Sum Regression) will also be presented. During this section, key concepts in exposome analysis, such as feature selection and multiple test correction, will be introduced.
+
+Some of the topics covered in this section include:
+
+- Exposure-Wide Association Analysis (ExWAS).
+
+- Methods for variable selection (Stepwise, Elastic Net, DSA).
