@@ -21,10 +21,10 @@ Some of the topics we will cover in this section include:
 
 - Principal Component Analysis (PCA) applied to exposome variables.
 
-***2. Association Analysis***: Association analysis aims to identify potential environmental exposure factors associated with various health parameters. This section will present different holistic analytical approaches focused on studying the effects of multiple exposure factors and their mixtures on health. This includes models such as ExWAS (Exposome-Wide Association Analysis), and others for studying interactions or nonlinear phenomena (e.g., Bayesian Kernel Machine Regression). An introduction to clustering methods and exposure mixtures (e.g., Weighted Quantile Sum Regression) will also be presented. During this section, key concepts in exposome analysis, such as feature selection and multiple test correction, will be introduced.
+***2. Association Analysis***: Association analysis aims to identify potential environmental exposure factors associated with various health parameters. This section will present different holistic analytical approaches focused on studying the effects of multiple exposure factors and their mixtures on health. This includes models such as ExWAS (Exposome-Wide Association Analysis). During this section, key concepts in exposome analysis, such as feature selection and multiple test correction, will be introduced.
 
 Some of the topics covered in this section include:
 
 - Exposure-Wide Association Analysis (ExWAS).
 
-- Methods for variable selection (Stepwise, Elastic Net, DSA).
+- Methods for variable selection (Stepwise, Elastic Net).
