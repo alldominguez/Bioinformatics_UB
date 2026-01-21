@@ -29,4 +29,4 @@ Some of the topics covered in this section include:
 
 - Methods for variable selection (Stepwise, Elastic Net).
 
-Linkg to Colab: https://colab.research.google.com/github/alldominguez/Bioinformatics_UB/blob/main/sesion_practica_exposoma-bioinformatics-UB.ipynb#scrollTo=G1VMrFw4E9kD
+Link to Colab: https://colab.research.google.com/github/alldominguez/Bioinformatics_UB/blob/main/sesion_practica_exposoma-bioinformatics-UB.ipynb#scrollTo=G1VMrFw4E9kD
